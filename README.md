@@ -10,9 +10,6 @@ Tal y como está programado gana el que consiga hacer una linea tanto vertical c
 
 ![Desktop](https://github.com/lupeMorales/3-en-raya/blob/master/3en%20Raya2.png?raw=true)
 
-### Demo:
-
-![Demo](./assets/PIEDRA%20PAPEL%20TIJERA%202022-09-15%2015-48-22.mp4)
 
 ### Lenguaje utilizado:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="css3" width="60" height="60"/> </a> </p>
